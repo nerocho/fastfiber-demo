@@ -75,5 +75,5 @@ func main() {
 	// 处理404
 	app.Use(middleware.NotFound())
 	// 启动应用
-	fastfiber.GraceRun(app)
+	fastfiber.GraceRun(app, 10)
 }
