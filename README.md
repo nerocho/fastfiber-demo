@@ -2,6 +2,8 @@
 
 fastfiber-demo 是[fastfiber](https://github.com/nerocho/fastfiber) 的 demo 项目
 
+注意当前demo 针对的是v0.0.3版本
+
 ## 项目结构
 
 项目结构参照`expressjs`组织
